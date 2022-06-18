@@ -47,6 +47,6 @@ show total
 show total in dollar
 0.56 dollar
 ```
-##Tests
+## Tests
 
 You can also run test in src/test.
