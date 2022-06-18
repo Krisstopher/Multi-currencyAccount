@@ -4,7 +4,7 @@ The program implements a console application for a multi-currency account.
 
 ## Launch Instructions
 
-Run main.kt via the development environment or the console of your OS.
+Run src/Main.kt via the development environment or the console of your OS.
 
 ## Commands
 **add currency <currency>**: adds a new currency to the account. Name must not contain spaces
@@ -49,4 +49,4 @@ show total in dollar
 ```
 ## Tests
 
-You can also run test in src/test.
+You can also run tests in src/test.
